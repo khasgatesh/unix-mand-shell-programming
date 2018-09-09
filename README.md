@@ -1,1 +1,1 @@
-# unix-mand-shell-programming
+# unix-and-shell-programming
